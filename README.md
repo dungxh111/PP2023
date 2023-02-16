@@ -1,4 +1,4 @@
-USTH ICT 2023 Advanced Programming with Python
+PHAMUSTH ICT 2023 Advanced Programming with Python
 =====================================================
 
 Students are expected to:
@@ -9,6 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL 
-* Student ID: ID123
+* Student Name:PHAM VAN DUNG 
+* Student ID: BA11-031
+* GROUP 1
 
